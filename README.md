@@ -118,6 +118,3 @@ If you use this tool, please consider citing this repository and the original pa
 
 - I adapted my original scripts (written in R and ChimeraX script) using Claude Opus 5.5 (Anthropic), who wrote also most of the documentation.
 
-## License
-
-MIT
