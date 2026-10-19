@@ -1,0 +1,4 @@
+example/data/
+example/models/
+*_px_fits/
+__pycache__/
